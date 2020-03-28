@@ -1,0 +1,2 @@
+# QQConnection
+QQ接入
